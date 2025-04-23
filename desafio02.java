@@ -24,4 +24,4 @@ public class desafio02 {
 			System.out.println("A idade informada é de um idoso.");
 	}
 
-
+}
